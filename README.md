@@ -13,3 +13,4 @@
 - [x] usePreventLeave
 - [x] useBeforeLeave
 - [x] useFadeIn
+- [x] useNetwork
